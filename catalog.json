@@ -4,7 +4,7 @@
   "type": "Application",
   "priority": 5,
   "meta": {
-    "github_url": "https://github.com/burnt-tomatoes/intranet",
+    "github_url": "https://github.com/burnt-tomatoes/intranet"
   },
   "dependencies": [
     "databases"
