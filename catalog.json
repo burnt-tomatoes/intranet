@@ -1,0 +1,12 @@
+{
+  "name": "Intranet",
+  "description": "The internal tools, admin portal, order lookup.",
+  "type": "Application",
+  "priority": 5,
+  "meta": {
+    "github_url": "https://github.com/burnt-tomatoes/intranet",
+  },
+  "dependencies": [
+    "databases"
+  ]
+}
